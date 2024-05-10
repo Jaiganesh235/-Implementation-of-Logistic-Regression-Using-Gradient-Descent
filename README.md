@@ -24,7 +24,10 @@ STEP 5. Define Loss Function and Gradient Descent: Define loss function using si
 STEP 6. Prediction and Evaluation: Use trained parameters to predict on dataset, calculate accuracy, and optionally predict placement status of new data points.
 
 STEP 7. End the program.
-
+<br>
+<br>
+<br>
+<br>
 ## Program:
 
 ```python

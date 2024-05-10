@@ -28,6 +28,8 @@ STEP 7. End the program.
 <br>
 <br>
 <br>
+<br>
+<br>
 ## Program:
 
 ```python
